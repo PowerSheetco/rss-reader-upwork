@@ -1,3 +1,3 @@
 # PowerSheet RSS Reader Upwork
 
-# Get piece of mind working on Upwork
+# Get peace of mind working on Upwork

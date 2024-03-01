@@ -21,7 +21,7 @@
 * Gives you peace of mind when working on Upwork
 
 
-
+<br />
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -31,7 +31,6 @@
   publishable-key="pk_live_51OL1m2HRWoLU3K3ekN76ECIfS0WNaZfVKJXgW7NRMMZDvIkRHb5HZOlYyg1m7Q6pzZPravVGqzMVRU1QMQCQotjo00mlxZxfzZ"
 >
 </stripe-buy-button>
-<br />
 
 
 

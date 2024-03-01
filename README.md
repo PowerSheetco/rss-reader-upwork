@@ -24,4 +24,4 @@
 
 [Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform?usp=sf_link) to stay in touch
 
-[Contact](https://docs.google.com/forms/d/e/1FAIpQLSfXaCPD_zB4Cvvqs8wF2EISJhNE4-jk0bzz6PJkqeumzbh1gQ/viewform?usp=sf_link)
+[Contact us](https://docs.google.com/forms/d/e/1FAIpQLSfXaCPD_zB4Cvvqs8wF2EISJhNE4-jk0bzz6PJkqeumzbh1gQ/viewform?usp=sf_link)

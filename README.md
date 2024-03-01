@@ -1,6 +1,5 @@
 # PowerSheet RSS Reader Upwork
 
-### Features
 * Instant email notifications
 * Cloud-based
 * Cross-platform

@@ -20,6 +20,16 @@
 * Indispensable tool for every freelancer
 * Gives you peace of mind when working on Upwork
 
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1OpT5HHRWoLU3K3e5EgtCl6k"
+  publishable-key="pk_live_51OL1m2HRWoLU3K3ekN76ECIfS0WNaZfVKJXgW7NRMMZDvIkRHb5HZOlYyg1m7Q6pzZPravVGqzMVRU1QMQCQotjo00mlxZxfzZ"
+>
+</stripe-buy-button>
+
 
 [Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform?usp=sf_link) to stay in touch
 

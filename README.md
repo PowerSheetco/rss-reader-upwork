@@ -16,7 +16,6 @@
 * Up to 13 feeds concurrently checked with 1 minute interval on free Google account
 * Up to a 100 emails per day on free Google account
 * Add personal notes to job posts
-* Upwork doesn't show you when exactly the job was posted (down to seconds) - we do
 * Customize the content of your emails notifications
 * Indispensable tool for every freelancer
 * Gives you peace of mind when working on Upwork

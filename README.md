@@ -1,14 +1,14 @@
 # PowerSheet RSS Reader Upwork
 
 ## Features
-* instant email notifications
-* cloud-based
-* cross-platform
-* no extra apps needed to install
-* familiar interface - just use your email client and Google Sheets
-* open jobs pages from the push notifications
+* Instant email notifications
+* Cloud-based
+* Cross-platform
+* No extra apps installed
+* Familiar interface - just use your email client and Google Sheets
+* Open jobs pages right from the push notifications
 * Update jobs content and recieve update notifications (price went up - get notified!)
-* easy way to start and stop the reader
+* Easy way to start and stop the reader
 * Get notified when jobs are closed
 * All fields separated - use filters/search by any field available in the RSS feed
 * EXCLUSIVE access to jobs that appeared on the website later and on other pages (this happens)
@@ -17,8 +17,8 @@
 * Add personal notes to job posts
 * Upwork doesn't show you when exactly the job was posted (down to seconds) - we do
 * Customize the content of your emails notifications
-* indicpensable tool for every upwork freelancer
-* Gives you peace of mind when using Upwork
+* Indispensable tool for every freelancer
+* Gives you peace of mind when working on Upwork
 
 
 [Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform?usp=sf_link) to stay in touch

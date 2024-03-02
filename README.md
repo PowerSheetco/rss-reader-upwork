@@ -24,7 +24,7 @@ We have developed the indispensable tool for every Upwork freelancer - the Power
 
 The subscription costs 20 USD / 18 EUR / 16 GBP per month (depending on your location).
 
-We are based in Europe and can offer you the best price in EUR. If you don't have a EUR card you can [sign up to Payoneer](http://share.payoneer.com/nav/ueVhQZ-b1u4JO_irPw688pnWN9KTIjoSuElc1S24qNj358eN6B_uS3xQnKD2NchPsMlnPXgYtmrCBBjaV1yyZg2) and create a virtual EUR card.
+We are based in Europe and can offer you best price in EUR. If you don't have a EUR card you can [sign up to Payoneer](http://share.payoneer.com/nav/ueVhQZ-b1u4JO_irPw688pnWN9KTIjoSuElc1S24qNj358eN6B_uS3xQnKD2NchPsMlnPXgYtmrCBBjaV1yyZg2) and create a virtual EUR card.
 
 When subscribing please enter the email you will be using with PowerSheet (the address emails will be sent from).
 

@@ -1,6 +1,6 @@
 # PowerSheet RSS Reader Upwork
 
-### Features:
+We have developed the indispensable tool for every Upwork freelancer - the PowerSheet RSS Reader Upwork
 
 * Instant email notifications
 * Cloud-based

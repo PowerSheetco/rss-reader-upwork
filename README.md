@@ -26,11 +26,12 @@ The subscription costs 20 USD / 18 EUR / 16 GBP per month (depending on your loc
 
 We are based in Europe and can offer you the best price in EUR. If you don't have a EUR card you can [sign up to Payoneer](http://share.payoneer.com/nav/ueVhQZ-b1u4JO_irPw688pnWN9KTIjoSuElc1S24qNj358eN6B_uS3xQnKD2NchPsMlnPXgYtmrCBBjaV1yyZg2) and create a virtual EUR card.
 
+When subscribing please enter the email you will be using with PowerSheet (the address emails will be sent from).
+
 <br />
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
-
 <stripe-buy-button
   buy-button-id="buy_btn_1OpT5HHRWoLU3K3e5EgtCl6k"
   publishable-key="pk_live_51OL1m2HRWoLU3K3ekN76ECIfS0WNaZfVKJXgW7NRMMZDvIkRHb5HZOlYyg1m7Q6pzZPravVGqzMVRU1QMQCQotjo00mlxZxfzZ"

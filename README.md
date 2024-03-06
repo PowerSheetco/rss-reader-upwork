@@ -1,6 +1,6 @@
 # PowerSheet RSS Reader Upwork
 
-* Instant email notifications.
+* Instant email notifications about new jobs.
 * Cloud-based. No need to keep your computer on all the time.
 * Cross-platform. Works anywhere where you can receive an email.
 * No extra apps installed. Save space on your devices

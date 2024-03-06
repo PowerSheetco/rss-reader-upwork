@@ -1,7 +1,5 @@
 # PowerSheet RSS Reader Upwork
 
-We have developed the indispensable tool for every Upwork freelancer: PowerSheet RSS Reader Upwork
-
 * Instant email notifications
 * Cloud-based
 * Cross-platform

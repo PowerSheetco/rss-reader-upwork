@@ -3,8 +3,8 @@
 * Instant email notifications.
 * Cloud-based. No need to keep your computer on all the time.
 * Cross-platform. Works anywhere where you can receive an email.
-* No extra apps installed. Save space on your devices!
-* Familiar interface. Just use your favorite email client and Google Sheets!
+* No extra apps installed. Save space on your devices
+* Familiar interface. Just use your favorite email client and Google Sheets
 * Open jobs pages right from the push notifications. apply even faster
 * Update jobs content and recieve update notifications, e.g. when price went up you get notified
 * Easy way to start and stop the reader - even by voice

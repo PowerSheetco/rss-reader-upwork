@@ -1,7 +1,7 @@
 # PowerSheet RSS Reader Upwork
 
-* instant email notifications
-* Cloud-based. No need to keep your computer on all the time.
+* Instant email notifications
+* Cloud-based. No need to keep your computer ON all the time
 * Cross-platform. Works anywhere where you can receive an email.
 * No extra apps installed. Save space on your devices
 * Familiar interface. Just use your favorite email client and Google Sheets
@@ -10,7 +10,6 @@
 * Easy way to start and stop the reader - even by voice
 * Get notified when interesting jobs are closed - finally a useful feature
 * All fields separated - use search/filters/sort by any field available in the feed
-* 100 jobs per page - 30 by default on Upwork
 * EXCLUSIVE access to jobs that appeared on the website later and even on other pages (this happens)
 * Up to 13 feeds concurrently checked with 1 minute interval on a free Google account
 * Recieve up to a 100 email notifications per day on a free Google account

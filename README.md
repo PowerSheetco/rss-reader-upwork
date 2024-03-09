@@ -40,7 +40,7 @@ with free 14-day cancellation*
 
 When subscribing please enter the email you will be using with PowerSheet (the address emails will be sent FROM).
 
-* [Refund Policy](refund)
+*[Refund Policy](refund)
 
 
 

@@ -24,7 +24,7 @@
 
 **$20 / month**
 
-with free 14-day cancellation
+with [free 14-day cancellation](refund)
 
 <br />
 <script async

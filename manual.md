@@ -1,4 +1,6 @@
-# Getting started
+# [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/) Manual
+
+## Getting started
 
 ### When the spreadsheet gets too big
 We recommend the following:

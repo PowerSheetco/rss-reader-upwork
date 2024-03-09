@@ -2,7 +2,7 @@
 
 ### When the spreadsheet gets too big
 We recommend the following:
-1. On Desktop version in browser: File -> Make a copy.
+1. On Desktop version in the browser: File -> Make a copy.
 This will be your backup copy of old jobs. It doesn't have triggers so won't run in the background but has all the data and settings saved.
 2. Disable checking
 3. In the address bar (Ctrl+J) enter `3:1000`

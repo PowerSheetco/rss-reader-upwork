@@ -22,9 +22,7 @@
 
 #### [Demo](duck.com)
 
-**$20 / month**
-
-with free 14-day cancellation
+**$20 / month** with free 14-day cancellation
 
 <br />
 <script async

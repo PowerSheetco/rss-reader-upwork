@@ -12,10 +12,11 @@
 * All fields separated - use search/filters/sort by any field available in the feed
 * EXCLUSIVE access to jobs that appeared on the website later and even on other pages (this happens)
 * Up to 13 feeds concurrently checked with 1 minute interval on a free Google account
-* Recieve up to a 100 email notifications per day on a free Google account
+* Up to a 100 email notifications per day on a free Google account
+* 100 items per page
 * Add personal notes to job posts
 * Customize the content of emails notifications
-* Exclusive access to tips on how to use Upwork feed most effectively
+* Tips on how to use Upwork feed most effectively
 * Indispensable tool for every freelancer
 * Gives you peace of mind when working on Upwork
 

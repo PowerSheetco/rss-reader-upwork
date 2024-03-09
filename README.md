@@ -22,6 +22,9 @@
 
 #### [Demo](duck.com)
 
+**$20 / month**
+with free 14 day cancellation
+
 <br />
 <script async
   src="https://js.stripe.com/v3/buy-button.js">

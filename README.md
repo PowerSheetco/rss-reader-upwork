@@ -15,6 +15,7 @@
 * Recieve up to a 100 email notifications per day on a free Google account
 * Add personal notes to job posts
 * Customize the content of emails notifications
+* Exclusive access to tips on how to use Upwork feed most effectively
 * Indispensable tool for every freelancer
 * Gives you peace of mind when working on Upwork
 

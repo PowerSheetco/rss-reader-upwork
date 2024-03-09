@@ -1,6 +1,6 @@
 # Getting started
 
-### When the ss gets too big
+### When the spreadsheet gets too big
 We recommend the following:
 1. On Desktop version in browser: File -> Make a copy.
 This will be your backup copy of old jobs. It doesn't have triggers so won't run in the background but has all the data and settings saved.

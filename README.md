@@ -24,7 +24,7 @@
 
 **$20 / month**
 
-with [free 14-day cancellation](refund)
+with free 14-day cancellation*
 
 <br />
 <script async
@@ -35,8 +35,12 @@ with [free 14-day cancellation](refund)
   publishable-key="pk_live_51OL1m2HRWoLU3K3ekN76ECIfS0WNaZfVKJXgW7NRMMZDvIkRHb5HZOlYyg1m7Q6pzZPravVGqzMVRU1QMQCQotjo00mlxZxfzZ"
 >
 </stripe-buy-button>
+<br />
+
 
 When subscribing please enter the email you will be using with PowerSheet (the address emails will be sent FROM).
+
+* [Refund Policy](refund)
 
 
 

@@ -24,7 +24,7 @@
 
 **$20 / month**
 
-with free 14-day cancellation*
+with [free 14-day cancellation](refund-policy)
 
 <br />
 <script async
@@ -39,9 +39,6 @@ with free 14-day cancellation*
 
 
 When subscribing please enter the email you will be using with PowerSheet (the address emails will be sent FROM).
-
-*[Refund Policy](refund)
-
 
 
 [Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform?usp=sf_link) to stay in touch

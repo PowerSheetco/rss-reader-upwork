@@ -1,6 +1,6 @@
 # Refund Policy
 
-We offer free 14-day cancellations after the day of purchase.
+We offer free 14-day cancellation after the day of first purchase.
 
 Refunds are being processed up to 30 days.
 

@@ -40,6 +40,8 @@ with [free 14-day cancellation](refund-policy)
 
 When subscribing please enter the email you will be using with PowerSheet (the address emails will be sent FROM).
 
+[Manual](manual)
+
 
 [Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform?usp=sf_link) to stay in touch
 

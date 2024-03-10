@@ -1,9 +1,11 @@
-# Refund Policy
+# [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 
-If cancelled within 14 days since the first purchase we offer a full refund to the original payment source.
+## Refund Policy
 
-Refunds happen automatically and are processed up to 30 days.
+If subscription is cancelled within 14 days since the day of purchase you get a full refund of a monthly subscription fee.
 
-After the cancellation the subscription will remain active until the end of the cuurent billing period.
+Refunds are processed up to 30 days and are sent to the original payment method.
+
+After the cancellation the subscription will remain active until the end of the billing period.
 
 You can re-enable the subscription until then and continue using the service.

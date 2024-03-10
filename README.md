@@ -28,7 +28,6 @@
 
 [with free 14-day cancellation](refund-policy)
 
-<br />
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>

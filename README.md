@@ -1,4 +1,4 @@
-# [PowerSheet](https://powersheet.co/) RSS Reader Upwork
+# PowerSheet RSS Reader Upwork
 
 * Instant email notifications
 * Cloud-based. No need to keep your computer ON all the time

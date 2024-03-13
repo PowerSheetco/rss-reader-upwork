@@ -39,7 +39,7 @@
 </stripe-buy-button>
 <br />
 
-When subscribing please enter the [email you will be using with PowerSheet](manual#which-email-should-i-use-to-subscribe-to-powersheet) (the address emails will be sent from).
+When subscribing please enter the [email you will be using with PowerSheet](manual.md#which-email-should-i-use-to-subscribe-to-powersheet) (the address emails will be sent from).
 
 [Manual](manual)
 

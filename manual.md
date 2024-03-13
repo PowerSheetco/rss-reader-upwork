@@ -22,5 +22,5 @@ That's it - you have a clean spreadsheet with all you present settings and trigg
 ### I want to change the email I am recieving notifications TO
 Just change the `recipients` field in your powersheet settings.
 
-### I want to change the email I am sending notifications FROM
-Please [contact us](mailto:info@powersheet.co) from your old email and specify a new email to change to
+### I want to change the email I am sending notifications FROM 
+Please [contact us](mailto:info@powersheet.co?subject=Change my PowerSheet email&body=yournewemail@gmail.com) from your old email and specify a new email to change to

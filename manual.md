@@ -1,4 +1,6 @@
-# [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/) Manual
+# [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
+
+## Manual
 
 ### Getting started
 

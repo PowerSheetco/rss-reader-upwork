@@ -1,8 +1,8 @@
 # [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/) Manual
 
-## Getting started
+### Getting started
 
-### When the spreadsheet gets too big
+#### When the spreadsheet gets too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.
 
@@ -21,4 +21,4 @@ That's it - you have a clean spreadsheet with all you present settings and trigg
 Just change the `recipients` field in your powersheet settings tab.
 
 ### I want to change the email I am sending FROM 
-Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=<your new email>@gmail.com) from your old email and specify a new email to change to. This will within 5 min AUTOMATICALLY update your billing email in stripe, give the access to your new email to the our powersheet file - to make a copy from it and [start](getting-started) from scratch, and close the access for your old account. You will have to initialze the new copy again.
+Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=<your new email>@gmail.com) from your old email and specify a new email to change to. This will within 5 min AUTOMATICALLY update your billing email in stripe, give the access to your new account to the powersheet file - to make a copy from it and [start with it](#getting-started) from scratch, and close the access for your old account. You will have to [initialze](#getting-started) the new copy again.

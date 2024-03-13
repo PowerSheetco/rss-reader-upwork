@@ -4,7 +4,7 @@
 
 ### Subscribing
 
-#### Which email should I use to subscribe to PowerSheet?
+#### Which email should I use with PowerSheet?
 
 You can use any email that has Google Account associated with it. This account will be the owner of your own copy of the powersheet, the script will run in the background in this account, and the emails will be sent **from this email**. This account is also a subject to Google's [quotas](#quotas).
 
@@ -61,3 +61,4 @@ You can add an image or a code block, too.
 
 </details>
 
+https://support.upwork.com/hc/en-us/articles/1500007921782-Advanced-Search-Techniques-for-Finding-Jobs

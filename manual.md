@@ -36,14 +36,14 @@ Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email
 <details>
 
 <summary>
-   #### Tips for collapsed sections
+<h4>Tips for collapsed sections</h4>
 </summary>
 
 You can add text within a collapsed section. 
 
 You can add an image or a code block, too.
 
-```ruby
+```js
    puts "Hello World"
 ```
 

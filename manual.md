@@ -1,4 +1,6 @@
-# [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/) Manual
+# [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
+
+# Manual
 
 ## Getting started
 
@@ -16,3 +18,9 @@ This will be your backup copy of old jobs. It doesn't have triggers so won't run
 
 Now you have a fresh new spreadsheet with only two data rows. These few rows are necessary to copy the formatting from them to newly added rows with new jobs.
 That's it - you have a clean spreadsheet with all you present settings and triggers ready to open a new page on Upwork
+
+### I want to change the email I am recieving notifications TO
+Just change the `recipients` field in your powersheet settings.
+
+### I want to change the email I am sending notifications FROM
+Please [contact us](mailto:info@powersheet.co) from your old email and specify a new email to change to

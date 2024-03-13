@@ -37,21 +37,9 @@ Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email
 
 <summary><b>Tips for collapsed sections</b></summary>
 
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```js
-   puts "Hello World"
-```
-
-</details>
-
-
-
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary><b>Tips for collapsed sections 2</b></summary>
 
 You can add text within a collapsed section. 
 
@@ -62,3 +50,14 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```js
+   puts "Hello World"
+```
+
+</details>
+

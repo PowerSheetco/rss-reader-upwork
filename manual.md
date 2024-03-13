@@ -2,6 +2,12 @@
 
 ## Manual
 
+### Subscribing
+
+#### Which email should I be using to subscribe to PowerSheet?
+
+You can use any email that has Google Account associated with it. This account will be the owner of your own copy of the powersheet, the script will run in the background in this account and the emails will be sent **from this email**. This account is also a subject to Google's [quotas](#quotas).
+
 ### Getting started
 
 ### My powersheet got too big

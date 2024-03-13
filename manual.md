@@ -4,7 +4,7 @@
 
 ### Getting started
 
-### When the spreadsheet gets too big
+### My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.
 

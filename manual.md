@@ -12,7 +12,7 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 
 ### Getting started
 
-#### • My powersheet got too big
+#### ● My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.
 

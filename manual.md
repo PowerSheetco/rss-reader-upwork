@@ -35,9 +35,9 @@ Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
+<summary>
+   #### Tips for collapsed sections
+</summary>
 
 You can add text within a collapsed section. 
 

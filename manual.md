@@ -23,4 +23,4 @@ That's it - you have a clean spreadsheet with all you present settings and trigg
 Just change the `recipients` field in your powersheet settings tab.
 
 ### I want to change the email I am sending notifications FROM 
-Please [contact us](mailto:info@powersheet.co?subject=Change my PowerSheet email&body=yournewemail@gmail.com) from your old email and specify a new email to change to
+Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=yournewemail@gmail.com) from your old email and specify a new email to change to

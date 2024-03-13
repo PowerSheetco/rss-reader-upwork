@@ -8,9 +8,11 @@
 
 You can use any email that has Google Account associated with it. This account will be the owner of your own copy of the powersheet, the script will run in the background in this account and the emails will be sent **from this email**. This account is also a subject to Google's [quotas](#quotas).
 
+You can always change the [email you are sending emails from]() and [receiving emails to]().
+
 ### Getting started
 
-### My powersheet got too big
+#### My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.
 
@@ -25,8 +27,8 @@ This will be your backup copy of old jobs. It doesn't have triggers so won't run
 Now you have a fresh new spreadsheet with only two data rows. These few rows are necessary to copy the formatting from them to newly added rows with new jobs.
 That's it - you have a clean spreadsheet with all you present settings and triggers ready to open a new page on Upwork
 
-### I want to change the email I am recieving notifications TO
+#### I want to change the email I am receiving notifications TO
 Just change the `recipients` field in your powersheet settings tab.
 
-### I want to change the email I am sending FROM 
+#### I want to change the email I am sending FROM
 Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=<your new email>@gmail.com) from your old email and specify a new email to change to. This will within 5 min AUTOMATICALLY update your billing email in stripe, give the access to your new account to the powersheet file - to make a copy from it and [start with it](#getting-started) from scratch, and close the access for your old account. You will have to [initialze](#getting-started) the new copy again.

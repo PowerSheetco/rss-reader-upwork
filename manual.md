@@ -20,7 +20,7 @@ Now you have a fresh new spreadsheet with only two data rows. These few rows are
 That's it - you have a clean spreadsheet with all you present settings and triggers ready to open a new page on Upwork
 
 ### I want to change the email I am recieving notifications TO
-Just change the `recipients` field in your powersheet settings.
+Just change the `recipients` field in your powersheet settings tab.
 
 ### I want to change the email I am sending notifications FROM 
 Please [contact us](mailto:info@powersheet.co?subject=Change my PowerSheet email&body=yournewemail@gmail.com) from your old email and specify a new email to change to

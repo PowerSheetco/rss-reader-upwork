@@ -13,7 +13,8 @@
 * Get notified when interesting jobs are closed - finally a useful feature
 * All fields separated - use search/filters/sort by any field available in the feed
 * EXCLUSIVE access to jobs that appeared on the website later and even on other pages (this happens)
-* Up to 13 feeds concurrently checked with 1 minute interval on a free Google account
+* Up to 13 feeds checked with 1 minute interval on a free Google account
+* Up to 69 feeds checked with 1 minute interval on a paid Google Workspace account
 * Up to a 100 email notifications per day on a free Google account
 * 100 items per page (30 by default on Upwork)
 * Add personal notes to job posts

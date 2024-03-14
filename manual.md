@@ -10,10 +10,6 @@ You can use any email that has Google Account associated with it. This account w
 
 You can always change the [email you are sending notifications to](#i-want-to-change-the-email-i-am-receiving-notifications-to) and also [from](#i-want-to-change-the-email-i-am-sending-from).
 
-#### Do you have a free trial?
-
-we offer [free 14-day cancellation](refund-policy).
-
 ### Getting started
 
 #### My powersheet got too big

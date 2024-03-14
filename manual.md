@@ -12,7 +12,7 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 
 #### Do you have a free trial?
 
-No But we can offer [free 14-day cancellation](refund-policy).
+we offer [free 14-day cancellation](refund-policy).
 
 ### Getting started
 

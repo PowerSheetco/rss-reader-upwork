@@ -4,7 +4,7 @@
 
 ### Subscribing
 
-#### Which email should I use with PowerSheet?
+#### Which email should I be using with PowerSheet?
 
 You can use any email that has Google Account associated with it. This account will be the owner of your own copy of the powersheet, the script will run in the background in this account, and the emails will be sent **from this email**. This account is also a subject to Google's [quotas](#quotas).
 

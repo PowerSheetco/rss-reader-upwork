@@ -1,18 +1,18 @@
 # [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 
-## Manual
+# Manual
 
-### Subscribing
+## Subscribing
 
-#### Which email should I be using with PowerSheet?
+### Which email should I be using with PowerSheet?
 
 You can use any email that has Google Account associated with it. This account will be the owner of your own copy of the powersheet, the script will run in the background in this account, and the emails will be sent **from this email**. This account is also a subject to Google's [quotas](#quotas).
 
 You can always change the [email you are sending notifications to](#i-want-to-change-the-email-i-am-receiving-notifications-to) and also [from](#i-want-to-change-the-email-i-am-sending-from).
 
-### Getting started
+## Getting started
 
-#### 1. Give Permissions
+### 1. Give Permissions
 
 In the top menu go to RSS -> Give Permissions.
 

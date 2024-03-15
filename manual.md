@@ -12,6 +12,10 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 
 ### Getting started
 
+#### 1. Give Permissions
+
+In the top menu go to RSS -> Give Permissions.
+
 #### My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.

@@ -1,5 +1,4 @@
 ---
-title: PowerSheet RSS Reader Upwork Manual
 description: PowerSheet RSS Reader Upwork Manual
 ---
 

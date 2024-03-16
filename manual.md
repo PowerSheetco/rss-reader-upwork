@@ -1,3 +1,8 @@
+---
+title: PowerSheet RSS Reader Upwork Manual
+description: PowerSheet RSS Reader Upwork Manual
+---
+
 # [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 
 ## Manual

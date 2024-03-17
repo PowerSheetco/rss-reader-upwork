@@ -1,6 +1,4 @@
 # Changelog
 
-## Spreadsheet versions
-
-### v1 16-Mar-2024
+### v1 20-Mar-2024
 First version

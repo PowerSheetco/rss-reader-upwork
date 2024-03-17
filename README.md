@@ -44,6 +44,7 @@ When subscribing please enter the [email you will be using with PowerSheet](http
 
 [Manual](manual)
 
+[Changelog](changelog)
 
 [Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform) to stay in touch
 

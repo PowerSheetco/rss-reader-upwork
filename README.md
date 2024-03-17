@@ -42,10 +42,10 @@
 
 When subscribing please enter the [email you will be using with PowerSheet](https://powersheet.co/rss-reader-upwork/manual#which-email-should-i-be-using-with-powersheet) (the address emails will be sent from).
 
+[Changelog](changelog)
+
 [Manual](manual)
 
 [Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform) to stay in touch
-
-[Changelog](changelog)
 
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSfXaCPD_zB4Cvvqs8wF2EISJhNE4-jk0bzz6PJkqeumzbh1gQ/viewform?usp=sf_link)

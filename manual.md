@@ -51,7 +51,7 @@ Try it yourself!
 
 So again, for all other feeds you can get the RSS urls the old way - via three dots. But you can also copy the webpage url to the Search URL column and wait a minute - up to you
 
-## Fast vs Slow feeds
+#### Fast vs Slow feeds
 
 There are **two types of feeds** on Upwork - *fast* and *slow*. The fast feed is the feed with expanded search query (e.g. `web development, $$$ expert level, fixed price`) vs a *topic* search for slow feed (just topic `957393`). Slow feeds get updated with new jobs about every 5 mins, while fast feeds get updated immediately.
 
@@ -62,6 +62,14 @@ The feeds are fetched and displayed in the order they appear in the spreadsheet,
 Also you can add slow feeds only after you save their job search (to My Feed) - but you can use fast feeds without saving. Just add their search or rss url to the reader and you are good to go.
 
 After adding My Feed do not rename it or change its urls. If you do not need to check My Feed, just set its check value to 'no', but do not delete its row. You can hide it instead if necessary.
+
+#### How to convert slow feed to fast feed
+
+1. After adding the slow feed wait a few minutes
+2. Open the updated slow feed url
+3. Wait a few seconds for the search url to update
+4. Copy the search url of the final page. If it still contains 'topic' iin url, try changing some search parameters forward and then back - this will initiate API calls and update the url. If it already doesn't contain a 'topic' parameter - just copy it
+5. Paste it to the original cell
 
 
 #### • My powersheet got too big

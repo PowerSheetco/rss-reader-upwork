@@ -20,6 +20,40 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 
 In the top menu go to RSS -> Give Permissions.
 
+### 3. Add feeds
+
+Start adding feeds from My Feed.
+
+1. Log in to your Upwork freelancer profile
+2. Go to your homepage: https://www.upwork.com/nx/find-work/
+3. Make sure My Feed is selected and click `three dots` -> RSS, it will download or open the file
+(Three dots aree next to My Feed, Best Matches, Most Recent, Saved Jobs if what)
+4. On Chrome if the file opens right in browser, just copy its URL from the browser. On Firefox go to the Downloads in your browser, find this just downloaded file, right click it -> `Copy Download Link` for it.
+5. In the spreadsheet go to `feeds` tab, click the [My Feed RSS URL cell](https://docs.google.com/spreadsheets/d/1IpDik02VkQMPb8nxAdkqDEVYXBzXbpbG3CiCA8arl50/edit#rangeid=991815201) and paste the just copied RSS URL there.
+
+That's it - we've just added My Feed to the Reader. Now if you already want to test it you can proceed to the next step in Get Started, otherwise you can add more feeds.
+
+You can only get the feed url on Upwork desktop web version as of now. Upwork doesn't allow getting feed urls on mobile. But don't worry - we'll help you!
+With **PowerSheet RSS Reader Upwork** you don't even need the RSS urls at all - all you need is a **webpage url** for that search. You just copy the search page url, paste it to the spreadsheet search url column - and in just a minute - voila! - you have an RSS url for that feed generated from search! Isn't that cool?))
+
+Not only that but we also automatically convert all slow feeds (except My Feed - which is slow) to fast feeds! You would have to do *three dots* - Edit Saved Searches - click on search - click on new three dots - RSS - download the RSS file - get its URL and paste it to the spreadsheet to do this.
+
+With us you just copy the page url to the spreadsheet. - that simple and versatile.
+
+Try it yourself!
+
+So again, for all other feeds you can get the RSS urls the old way - via three dots. But you can also copy the webpage url to the Search URL column and wait a minute - up to you.
+
+## Fast vs Slow feeds
+
+There are **two types of feeds** on Upwork - *fast* and *slow*. The fast feed is the feed with expanded search query (e.g. `web development, $$$ expert level, fixed price`) vs a *topic* search for slow feed (just topic `957393`). Slow feeds get updated with new jobs about every 5 mins, while fast feeds get updated immediately.
+
+There is no difference between the search url content and the rss url content - the have the same data. So what you see on a page like https://www.upwork.com/nx/search/jobs/?q=web%20development&contractor_tier=3&t=1&nbs=1&sort=recency is the same as what Reader sees in the RSS feed. That's why you can use search url to better understand what's going on with the feeds. They also highlight the matches by which the job was found.
+
+The feeds are fetched and displayed in the order they appear in the spreadsheet, and since My Feed is a slow feed, you may want to move the My Feed row UNDER all other feeds after adding them
+
+
+
 #### • My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.
@@ -41,31 +75,7 @@ Just change the `recipient` field in your powersheet settings tab.
 #### • I want to change the email I am sending FROM
 Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=<your new email>@gmail.com) from your old email and specify a new email to change to. This will within 5 min AUTOMATICALLY update your billing email in stripe, give the access to your new account to the powersheet file - to make a copy from it and [start with it](#getting-started) from scratch, and close the access for your old account. You will have to [initialze](#getting-started) the new copy again.
 
-<details>
 
-<summary><b>Tips for collapsed sections</b></summary>
-
-<details>
-
-<summary><b>Tips for collapsed sections 2</b></summary>
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```js
-   puts "Hello World"
-```
-
-</details>
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```js
-   puts "Hello World"
-```
 
 </details>
 

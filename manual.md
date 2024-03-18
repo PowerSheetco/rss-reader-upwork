@@ -42,7 +42,7 @@ With us you just copy the page url to the spreadsheet. - that simple and versati
 
 Try it yourself!
 
-So again, for all other feeds you can get the RSS urls the old way - via three dots. But you can also copy the webpage url to the Search URL column and wait a minute - up to you.
+So again, for all other feeds you can get the RSS urls the old way - via three dots. But you can also copy the webpage url to the Search URL column and wait a minute - up to you
 
 ## Fast vs Slow feeds
 
@@ -52,6 +52,9 @@ There is no difference between the search url content and the rss url content - 
 
 The feeds are fetched and displayed in the order they appear in the spreadsheet, and since My Feed is a slow feed, you may want to move the My Feed row UNDER all other feeds after adding them
 
+Also you can add slow feeds only after you save their job search (to My Feed) - but you can use fast feeds without saving. Just add their search or rss url to the reader and you are good to go.
+
+After adding My Feed do not rename it or change its urls. If you do not need to check My Feed, just set its check value to 'no', but do not delete its row. You can hide it instead if necessary.
 
 
 #### • My powersheet got too big

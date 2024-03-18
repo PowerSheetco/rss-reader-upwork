@@ -18,13 +18,13 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 
 ### 1. Give Permissions
 
-1. In the top menu go to RSS -> Give Permissions
+1. In the top menu click RSS -> Give Permissions
 2. Click Ok in the popup
 3. Choose your current Google account
 4. Advanced
 5. Go to RSS Reader Upwork (unsafe)
 6. Continue
-7. Check the permissions you are about to give (see our [privacy policy] for details)
+7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) for details)
 8. Allow
 
 ### 3. Add feeds

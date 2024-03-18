@@ -10,7 +10,60 @@ We do our best to minimise the data we collect about you and get only what we ne
 
 For spreadsheet to function properly we require the following access to your Google account:
 
-To continue, Google will share your name, email address, language preference, and profile picture with PS RSS Reader Upwork. 
+To continue, Google will share your name, email address, language preference, and profile picture with PS RSS Reader Upwork.
+
+* See, edit, create, and delete all your Google Sheets spreadsheets
+* This app wants permission to:
+
+
+
+See and edit your spreadsheets (including settings and metadata)
+
+Create new spreadsheets
+
+Upload and download your spreadsheets
+
+Organize and delete your spreadsheets
+
+See the names and emails of people you share your spreadsheets with
+
+Share and stop sharing your spreadsheets with others
+
+This app will be able to do the same things that you can do. Changes made by this application will be attributed to you.
+
+There may be sensitive information in your spreadsheets, like financial records or personal lists.
+
+
+
+View and manage your forms in Google Drive
+
+Create new forms
+
+Modify existing forms
+
+View, submit, and process form responses
+
+Share forms with others
+
+
+
+Connect to an external service
+
+Create a network connection to any external service (e.g., to read or write data)
+
+
+Send email as you
+
+Send email that appears to have been sent by you (e.g., from your email address)
+
+
+Allow this application to run when you are not present
+
+
+
+
+
+
 
 
 ### Website

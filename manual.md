@@ -24,7 +24,7 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 4. Advanced
 5. Go to RSS Reader Upwork (unsafe)
 6. Continue
-7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) for details)
+7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) if you have any questions)
 8. Allow
 
 ### 3. Add feeds

@@ -20,6 +20,14 @@ We may ask the following information about you for the newsletter (please keep i
 * Consent to receive exclusive job offers from us or our partners
 
 ### Billing Information
-We use [Stripe](https://stripe.com) for payment processing on our website. The billing information we collect about you is available in your customer cabinet: https://stripe.powersheet.co/p/login/00g9Bi8qP9N84BGaEE
 
-You are able to change the following information
+We use [Stripe](https://stripe.com) for payment processing on our website. The billing information we collect about you is:
+
+* Your name
+* Your email
+* Your billing address
+* Your payment method information
+
+You can access and modify any piece of information except email in the customer portal: https://stripe.powersheet.co/p/login/00g9Bi8qP9N84BGaEE
+To edit the PowerSheet email please refer to [manual](https://powersheet.co/rss-reader-upwork/manual#i-want-to-change-the-email-i-am-sending-from)
+

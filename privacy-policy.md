@@ -1,4 +1,4 @@
-d# PowerSheet RSS Reader Upwork
+# PowerSheet RSS Reader Upwork
 
 # Privacy Policy
 

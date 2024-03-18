@@ -15,7 +15,7 @@ We just want to know HOW MANY people are visiting our website - and not WHO is d
 
 We may ask the following information about you for the newsletter (please keep in mind that any bit of it is optional):
 * Your email
-* Your Upwork profile URL - used for analytics and sending our own job offers to the suitable freelancers
+* Your Upwork profile URL - used for analytics and sending our own job offers to suitable freelancers
 * Consent to receive news and announcement emails
 * Consent to receive exclusive job offers from us or our partners
 

@@ -8,7 +8,7 @@ We do our best to minimise the data we collect from you and require only what we
 
 ### Spreadsheet and Google Account Information
 
-For spreadsheet to function properly we require the following access to your Google account:
+For spreadsheet to function we require the following permissions:
 
 * See, edit, create, and delete all your Google Sheets spreadsheets
   * Necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet.
@@ -26,10 +26,7 @@ Besides that by using the Reader you are sharing with us the following informati
 * Your name
 * Email
 * Language preference
-* profile picture
-
-We require only your email
-
+* Profile picture
 
 
 

@@ -6,6 +6,12 @@ We do our best to minimise the data we collect about you and get only what we ne
 
 ## Data we collect
 
+### Spreadsheet
+
+For spreadsheet to function properly we require the following access to your Google account:
+
+
+
 ### Website
 
 We use [Plausible](https://plausible.io/) for website analytics and do not use cookies. Please refer to their website about what data is being collected.
@@ -29,5 +35,7 @@ We use [Stripe](https://stripe.com) for payment processing on our website. The b
 * Your payment method information
 
 You can access and modify any piece of information except email in the customer portal: https://stripe.powersheet.co/p/login/00g9Bi8qP9N84BGaEE
-To edit the PowerSheet email please refer to [manual](https://powersheet.co/rss-reader-upwork/manual#i-want-to-change-the-email-i-am-sending-from)
+On how to edit your PowerSheet email please refer to the [manual](https://powersheet.co/rss-reader-upwork/manual#i-want-to-change-the-email-i-am-sending-from)
+
+
 

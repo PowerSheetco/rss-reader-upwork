@@ -4,7 +4,7 @@
 
 ### Data we collect
 
-#### Spreadsheet and Google Account Information
+### Spreadsheet and Google Account Information
 
 For spreadsheet to function we need the following permisions
 

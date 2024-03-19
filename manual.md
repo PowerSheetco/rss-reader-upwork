@@ -72,7 +72,7 @@ After adding My Feed do not rename it or change its urls. If you do not need to 
 5. Paste it to the original cell
 
 
-#### • My powersheet got too big
+#### My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.
 
@@ -87,7 +87,7 @@ This will be your backup copy of old jobs. It doesn't have triggers so won't run
 Now you have a fresh new spreadsheet with only two data rows. These few rows are necessary to copy the formatting from them to newly added rows with new jobs.
 That's it - you have a clean spreadsheet with all you present settings and triggers ready to open a new page on Upwork
 
-#### I want to change the email I am receiving notifications TO
+#### I want to change the email I am sending notifications TO
 Just change the `recipient` field in your powersheet settings tab.
 
 #### • I want to change the email I am sending FROM

@@ -8,7 +8,7 @@
 
 For spreadsheet to function we need the following permisions:
 
-* See, edit, create, and delete all your Google Sheets spreadsheets
+* **See, edit, create, and delete all your Google Sheets spreadsheets**
 
   Necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet
   

@@ -95,6 +95,6 @@ Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email
 
 
 
-</details>
-
 https://support.upwork.com/hc/en-us/articles/1500007921782-Advanced-Search-Techniques-for-Finding-Jobs
+
+Have ideas on how to improve this manual? [Let us know!](mailto:powersheetco@gmail.com)

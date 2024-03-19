@@ -19,9 +19,9 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 ### 1. Give Permissions
 
 1. In the top menu click RSS -> Give Permissions
-2. Click Ok in the popup
+2. Click Ok in the pop-up
 3. Choose your current Google account
-4. Advanced
+4. You will see a warning saying that 'Google hasn't verified this app'. That's ok Google always shows it even your own scripts. Please check our [Privacy Policy](https://powersheet.co/rss-reader-upwork/privacy-policy) if you have any concerns. Otherwise, click Advanced
 5. Go to RSS Reader Upwork (unsafe)
 6. Continue
 7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) for details)

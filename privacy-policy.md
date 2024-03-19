@@ -1,4 +1,4 @@
-# PowerSheet RSS Reader Upwork
+# [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 
 # Privacy Policy
 

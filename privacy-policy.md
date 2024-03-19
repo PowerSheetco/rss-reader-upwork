@@ -10,7 +10,7 @@ We do our best to minimise the data we collect and require only what we need for
 
 For spreadsheet to function we require the following permissions:
 
-* See, edit, create, and delete all your Google Sheets spreadsheets.
+* See, edit, create, and delete all your Google Sheets spreadsheets
 
   Necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet.
 

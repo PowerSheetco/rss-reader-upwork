@@ -19,7 +19,6 @@
 * 100 items per page (30 by default on Upwork)
 * Add personal notes to job posts
 * Customize the content of emails notifications
-* Tips on how to use Upwork feed most effectively
 * Indispensable tool for every freelancer
 * Gives you peace of mind when working on Upwork
 

@@ -27,6 +27,11 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) for details). If you are worried about access to your personal information you can use a [dummy Google Account](#i-want-to-change-the-email-i-am-sending-from) for this
 8. Allow
 
+### 2. Create settings form
+
+In the top menu click RSS -> Create settings form.
+
+
 ### 3. Add feeds
 
 Start adding feeds from My Feed.

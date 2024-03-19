@@ -21,10 +21,10 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 1. In the top menu click RSS -> Give Permissions
 2. Click Ok in the pop up
 3. Choose your current Google account
-4. There will be a warning saying 'Google hasn't verified this app'. Google always shows it, even your own scripts. Please check our [Privacy Policy](https://powersheet.co/rss-reader-upwork/privacy-policy) for details about access to your data. Then click Advanced
+4. There will be a warning saying 'Google hasn't verified this app'. Please check our [Privacy Policy](https://powersheet.co/rss-reader-upwork/privacy-policy) for details about access to your data. Then click Advanced
 5. Go to RSS Reader Upwork (unsafe)
 6. Continue
-7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) for details)
+7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) for details). If you are worried about access to your personal information you can use a [dummy Google Account for this](#i-want-to-change-the-email-i-am-sending-from).
 8. Allow
 
 ### 3. Add feeds
@@ -90,7 +90,7 @@ That's it - you have a clean spreadsheet with all you present settings and trigg
 #### I want to change the email I am sending notifications TO
 Just change the `recipient` field in your powersheet settings tab.
 
-#### • I want to change the email I am sending FROM
+#### I want to change the email I am sending FROM
 Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=<your new email>@gmail.com) from your old email and specify a new email to change to. This will within 5 min AUTOMATICALLY update your billing email in stripe, give the access to your new account to the powersheet file - to make a copy from it and [start with it](#getting-started) from scratch, and close the access for your old account. You will have to [initialze](#getting-started) the new copy again.
 
 

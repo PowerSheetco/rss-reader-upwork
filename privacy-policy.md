@@ -8,11 +8,11 @@
 
 For spreadsheet to function we need the following permisions:
 
-* **See, edit, create, and delete all your Google Sheets spreadsheets.**
+* **See, edit, create, and delete all your Google Sheets spreadsheets**
 
   Necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet.
   
-* **View and manage your forms in Google Drive.**
+* **View and manage your forms in Google Drive**
 
   We are using the settings form to make it easier to change settings. We access only the Settings form bound to the RSS Reader spreadsheet.
   

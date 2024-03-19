@@ -10,7 +10,7 @@
 * Open jobs pages right from the push notifications. apply even faster
 * Update jobs content and recieve update notifications, e.g. when price went up you get notified
 * Easy way to start and stop the reader - even by voice
-* Get notified when interesting jobs are closed - 
+* Get notified when interesting jobs are closed
 * All fields separated - use search/filters/sort by any field available in the feed
 * EXCLUSIVE access to jobs that appeared on the website later and even on other pages (this happens)
 * Up to 13 feeds checked with 1 minute interval on a free Google account

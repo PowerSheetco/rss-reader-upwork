@@ -10,7 +10,7 @@ We do our best to minimise the data we collect from you and require only what we
 
 For spreadsheet to function we require the following permissions:
 
-* See, edit, create, and delete all your Google Sheets spreadsheets. Necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet.
+* See, edit, create, and delete all your Google Sheets spreadsheets: Necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet.
 * View and manage your forms in Google Drive
   * We are using a Settings form to make it easier to change settings. We access only the Settings form bound the RSS Reader spreadsheet.
 * Connect to an external service

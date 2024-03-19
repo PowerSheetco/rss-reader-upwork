@@ -58,5 +58,7 @@ We use [Stripe](https://stripe.com) for payment processing on our website. The b
 You can access and modify any piece of information except email in the customer portal: https://stripe.powersheet.co/p/login/00g9Bi8qP9N84BGaEE
 On how to edit your PowerSheet email please refer to the [manual](https://powersheet.co/rss-reader-upwork/manual#i-want-to-change-the-email-i-am-sending-from)
 
+## How we ue your data
 
+We do not share your data with thirs parties
 

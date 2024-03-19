@@ -16,14 +16,6 @@ For spreadsheet to function we require the following permissions:
 * Send email as you. This is necessary to send you email notifications.
 * Allow this application to run when you are not present. This in necessary to regularly check the feeds.
 
-Besides that by using the Reader you are sharing with us the following information:
-
-* Your name
-* Email
-* Language preference
-* Profile picture
-
-
 
 
 

@@ -1,6 +1,6 @@
 # [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 
-## Refund Policy
+# Refund Policy
 
 If subscription is cancelled within 14 days since the day of purchase you get a full refund of a monthly subscription fee.
 

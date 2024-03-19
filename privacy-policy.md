@@ -1,10 +1,10 @@
 # [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 
-# Privacy Policy
+## Privacy Policy
 
-## Data we collect
+### Data we collect
 
-### Spreadsheet and Google Account Information
+#### Spreadsheet and Google Account Information
 
 For spreadsheet to function we need the following permisions:
 

@@ -22,7 +22,7 @@ For spreadsheet to function we need the following permisions
   
 * **Send email as you.**
 
-  This is necessary to send you email notifications.
+  This is necessary to send you email notifications. We need only to SEND emails from your account - not READ your email.
   
 * **Allow this application to run when you are not present.**
 

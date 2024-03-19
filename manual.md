@@ -24,7 +24,7 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 4. There will be a warning saying 'Google hasn't verified this app'. Please check our [Privacy Policy](https://powersheet.co/rss-reader-upwork/privacy-policy) for details about access to your data. Then click Advanced
 5. Go to RSS Reader Upwork (unsafe)
 6. Continue
-7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) for details). If you are worried about access to your personal information you can use a [dummy Google Account for this](#i-want-to-change-the-email-i-am-sending-from).
+7. Check the permissions you are about to give (see our [privacy policy](privacy-policy) for details). If you are worried about access to your personal information you can use a [dummy Google Account](#i-want-to-change-the-email-i-am-sending-from) for this
 8. Allow
 
 ### 3. Add feeds

@@ -2,13 +2,11 @@
 
 # Privacy Policy
 
-We do our best to minimise the data we collect and require only what we need for the software to function.
-
 ## Data we collect
 
 ### Spreadsheet and Google Account Information
 
-For spreadsheet to function we require the following permissions:
+For spreadsheet to function we need the following permisions:
 
 * See, edit, create, and delete all your Google Sheets spreadsheets.
 

@@ -40,7 +40,8 @@ We just want to know HOW MANY people are visiting our website - and not WHO is d
 
 ### Newsletter
 
-We may ask the following information about you for the newsletter (please keep in mind that any bit of it is optional):
+We may ask the following information about you for the newsletter:
+
 * Your email
 * Your Upwork profile URL - used for analytics and sending our own job offers to suitable freelancers
 * Consent to receive news and announcement emails
@@ -60,5 +61,5 @@ On how to edit your PowerSheet email please refer to the [manual](https://powers
 
 ## How we ue your data
 
-We do not share your data with thirs parties
+We do not share your data with third parties
 

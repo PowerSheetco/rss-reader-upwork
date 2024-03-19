@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-### Data we collect
+## Data we collect
 
 ### Spreadsheet and Google Account Information
 

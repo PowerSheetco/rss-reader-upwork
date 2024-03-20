@@ -81,6 +81,8 @@ Some jobs may change their description or title, but ALL JOBS will eventually ge
 
 Updates include the change of any parameter available in the Upwrok RSS feed.
 
+Trigger is like a battery, and `check` setting is like a power button.
+
 #### • Fast vs Slow feeds
 
 There are **two types of feeds** on Upwork - *fast* and *slow*. The fast feed is the feed with expanded search query (e.g. `web development, $$$ expert level, fixed price`) vs a *topic* search for slow feed (just topic `957393`). Slow feeds get updated with new jobs about every 5 mins, while fast feeds get updated immediately.

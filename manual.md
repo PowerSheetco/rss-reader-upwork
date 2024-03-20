@@ -95,7 +95,7 @@ That's it - you have a clean spreadsheet with all you present settings and trigg
 #### ⬦ I want to change the email I am sending notifications TO
 Just change the `recipient` field in your powersheet settings tab.
 
-#### ⬦ I want to change the email I am sending FROM
+#### * I want to change the email I am sending FROM
 Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=<your new email>@gmail.com) from your old email and specify a new email to change to. This will within 5 min AUTOMATICALLY update your billing email in stripe, give the access to your new account to the powersheet file - to make a copy from it and [start with it](#getting-started) from scratch, and close the access for your old account. You will have to [initialze](#getting-started) the new copy again.
 
 #### ⬦ How to search on Upwork

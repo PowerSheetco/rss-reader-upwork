@@ -56,7 +56,7 @@ Try it yourself!
 
 So again, for all other feeds you can get the RSS urls the old way - via three dots. But you can also copy the webpage url to the Search URL column and wait a minute - up to you
 
-#### • Fast vs Slow feeds
+#### Fast vs Slow feeds
 
 There are **two types of feeds** on Upwork - *fast* and *slow*. The fast feed is the feed with expanded search query (e.g. `web development, $$$ expert level, fixed price`) vs a *topic* search for slow feed (just topic `957393`). Slow feeds get updated with new jobs about every 5 mins, while fast feeds get updated immediately.
 
@@ -68,7 +68,7 @@ Also you can add slow feeds only after you save their job search (to My Feed) - 
 
 After adding My Feed do not rename it or change its urls. If you do not need to check My Feed, just set its check value to 'no', but do not delete its row. You can hide it instead if necessary.
 
-#### • How to convert slow feed to fast feed
+#### How to convert slow feed to fast feed
 
 1. After adding the slow feed wait a few minutes
 2. Open the updated slow feed url
@@ -77,7 +77,20 @@ After adding My Feed do not rename it or change its urls. If you do not need to 
 5. Paste it to the original cell
 
 
-#### • My powersheet got too big
+
+<details>
+<summary><h4>How to convert slow feed to fast feed</h4></summary>
+
+1. After adding the slow feed wait a few minutes
+2. Open the updated slow feed url
+3. Wait a few seconds for the search url to update
+4. Copy the search url of the final page. If it still contains 'topic' iin url, try changing some search parameters forward and then back - this will initiate API calls and update the url. If it already doesn't contain a 'topic' parameter - just copy it
+5. Paste it to the original cell
+
+</details>
+
+
+#### My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.
 
@@ -92,14 +105,15 @@ This will be your backup copy of old jobs. It doesn't have triggers so won't run
 Now you have a fresh new spreadsheet with only two data rows. These few rows are necessary to copy the formatting from them to newly added rows with new jobs.
 That's it - you have a clean spreadsheet with all you present settings and triggers ready to open a new page on Upwork
 
-#### • I want to change the email I am sending notifications TO
+#### I want to change the email I am sending notifications TO
 Just change the `recipient` field in your powersheet settings tab.
 
-#### • I want to change the email I am sending FROM
+#### I want to change the email I am sending FROM
 Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=<your new email>@gmail.com) from your old email and specify a new email to change to. This will within 5 min AUTOMATICALLY update your billing email in stripe, give the access to your new account to the powersheet file - to make a copy from it and [start with it](#getting-started) from scratch, and close the access for your old account. You will have to [initialze](#getting-started) the new copy again.
 
-
+#### How to Use Search on Upwork
 
 https://support.upwork.com/hc/en-us/articles/1500007921782-Advanced-Search-Techniques-for-Finding-Jobs
 
-Have ideas on how to improve this manual? [Let us know!](mailto:powersheetco@gmail.com)
+
+Have ideas on how to improve this manual? [Let us know](mailto:powersheetco@gmail.com)

@@ -62,8 +62,6 @@ There are **two types of feeds** on Upwork - *fast* and *slow*. The fast feed is
 
 There is no difference between the search url content and the rss url content - the have the same data. So what you see on a page like https://www.upwork.com/nx/search/jobs/?q=web%20development&contractor_tier=3&t=1&nbs=1&sort=recency is the same as what Reader sees in the RSS feed. That's why you can use search url to better understand what's going on with the feeds. They also highlight the matches by which the job was found.
 
-The feeds are fetched and displayed in the order they appear in the spreadsheet, and since My Feed is a slow feed, you may want to move the My Feed row UNDER all other feeds after adding them
-
 Also you can add slow feeds only after you save their job search (to My Feed) - but you can use fast feeds without saving. Just add their search or rss url to the reader and you are good to go.
 
 After adding My Feed do not rename it or change its urls. If you do not need to check My Feed, just set its check value to 'no', but do not delete its row. You can hide it instead if necessary.

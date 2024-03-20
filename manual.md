@@ -77,20 +77,6 @@ After adding My Feed do not rename it or change its urls. If you do not need to 
 5. Paste it to the original cell
 
 
-
-<details>
-  
-<summary>How to convert slow feed to fast feed</summary>
-
-1. After adding the slow feed wait a few minutes
-2. Open the updated slow feed url
-3. Wait a few seconds for the search url to update
-4. Copy the search url of the final page. If it still contains 'topic' iin url, try changing some search parameters forward and then back - this will initiate API calls and update the url. If it already doesn't contain a 'topic' parameter - just copy it
-5. Paste it to the original cell
-
-</details>
-
-
 #### My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.

@@ -1,0 +1,8 @@
+# [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
+
+# Status
+
+PowerSheet RSS Upwork or Google Services have no known issues as of now.
+
+Something is not working as expected? Please [let us know!](mailto:powersheetco@gmail.com)
+

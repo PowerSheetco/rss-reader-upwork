@@ -56,6 +56,10 @@ Try it yourself!
 
 So again, for all other feeds you can get the RSS urls the old way - via three dots. But you can also copy the webpage url to the Search URL column and wait a minute - up to you
 
+### 4. Create time trigger
+
+In the top menu click RSS -> Create time trigger.
+
 #### • Fast vs Slow feeds
 
 There are **two types of feeds** on Upwork - *fast* and *slow*. The fast feed is the feed with expanded search query (e.g. `web development, $$$ expert level, fixed price`) vs a *topic* search for slow feed (just topic `957393`). Slow feeds get updated with new jobs about every 5 mins, while fast feeds get updated immediately.

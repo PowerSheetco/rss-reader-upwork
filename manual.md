@@ -78,7 +78,9 @@ After adding My Feed do not rename it or change its urls. If you do not need to 
 
 
 
-<details><summary>How to convert slow feed to fast feed</summary>
+<details>
+  
+<summary>How to convert slow feed to fast feed</summary>
 
 1. After adding the slow feed wait a few minutes
 2. Open the updated slow feed url

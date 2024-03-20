@@ -2,7 +2,7 @@
 
 ### Status
 
-PowerSheet RSS Upwork and Google Services have no known issues.
+PowerSheet RSS Upwork and Google Services have no known issues as of now.
 
-Something's not working as expected? Please [let us know](mailto:powersheetco@gmail.com)
+Something's not working as expected? [Please let us know.](mailto:powersheetco@gmail.com)
 

@@ -75,6 +75,9 @@ After adding My Feed do not rename it or change its urls. If you do not need to 
 3. Wait a few seconds for the search url to update
 4. Copy the search url of the final page. If it still contains 'topic' iin url, try changing some search parameters forward and then back - this will initiate API calls and update the url. If it already doesn't contain a 'topic' parameter - just copy it
 5. Paste it to the original cell
+ 
+● dgfdfs
+* dsdga
 
 
 #### My powersheet got too big

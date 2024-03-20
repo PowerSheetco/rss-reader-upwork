@@ -68,7 +68,7 @@ Also you can add slow feeds only after you save their job search (to My Feed) - 
 
 After adding My Feed do not rename it or change its urls. If you do not need to check My Feed, just set its check value to 'no', but do not delete its row. You can hide it instead if necessary.
 
-#### ● How to convert slow feed to fast feed
+#### ► How to convert slow feed to fast feed
 
 1. After adding the slow feed wait a few minutes
 2. Open the updated slow feed url
@@ -77,7 +77,7 @@ After adding My Feed do not rename it or change its urls. If you do not need to 
 5. Paste it to the original cell
 
 
-#### ● My powersheet got too big
+#### ◆ My powersheet got too big
 We recommend the following:
 1. On Desktop version in the browser: File -> Make a copy.
 
@@ -95,10 +95,10 @@ That's it - you have a clean spreadsheet with all you present settings and trigg
 #### ● I want to change the email I am sending notifications TO
 Just change the `recipient` field in your powersheet settings tab.
 
-#### ● I want to change the email I am sending FROM
+#### ⬤ I want to change the email I am sending FROM
 Please [contact us](mailto:info@powersheet.co?subject=Change My PowerSheet Email&body=<your new email>@gmail.com) from your old email and specify a new email to change to. This will within 5 min AUTOMATICALLY update your billing email in stripe, give the access to your new account to the powersheet file - to make a copy from it and [start with it](#getting-started) from scratch, and close the access for your old account. You will have to [initialze](#getting-started) the new copy again.
 
-#### ● How to search on Upwork
+#### ⬦ How to search on Upwork
 
 https://support.upwork.com/hc/en-us/articles/1500007921782-Advanced-Search-Techniques-for-Finding-Jobs
 

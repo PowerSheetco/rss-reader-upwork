@@ -62,8 +62,12 @@ In the top menu click RSS -> Create time trigger.
 
 ### 5. Settings and start
 
-Go to the `set` sheet (short for settings - you can rename it if you like).
+Go to the `feeds` sheet and mark the feeds you want to check.
 
+Go to the `set` sheet, check your `recipient` email and set `check` to 'yes'.
+
+Go to the `set` sheet (short for settings - you can rename it if you like)
+ 
 This is your settings dashboard.
 
 Each row is a setting parameter: column C is parameter name, columnd D is a parameter value. At the top are the most important 5 parameters: check, send new, update, send updates.

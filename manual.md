@@ -41,7 +41,7 @@ Start adding feeds from My Feed.
 3. Make sure My Feed is selected and click `three dots` -> RSS, it will download or open the file
 (Three dots aree next to My Feed, Best Matches, Most Recent, Saved Jobs if what)
 4. On Chrome if the file opens right in browser, just copy its URL from the browser. On Firefox go to the Downloads in your browser, find this just downloaded file, right click it -> `Copy Download Link` for it.
-5. In the spreadsheet go to `feeds` tab, click the `D2` cell and paste the just copied RSS URL there.
+5. In the spreadsheet go to `feeds` tab, select `D2` and paste the just copied RSS URL there.
 
 That's it - you've just added My Feed to the Reader. Now if you already want to test it you can proceed to the next step in Get Started, otherwise you can add more feeds.
 

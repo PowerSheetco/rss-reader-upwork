@@ -60,6 +60,23 @@ So again, for all other feeds you can get the RSS urls the old way - via three d
 
 In the top menu click RSS -> Create time trigger.
 
+### 5. Settings and start
+
+Go to the `set` sheet (short for settings - you can rename it if you like).
+
+This is your settings dashboard.
+
+Each row is a setting parameter: column C is parameter name, columnd D is a parameter value. At the top are the most important 5 parameters: check, send new, update, send updates.
+
+* check - check feeds for new jobs
+* send new - send notifications about new jobs
+* update - update old jobs in the ss if they have changed
+* send updates - ONLY FOR JOBS STARRED IN SS - send email if starred job have changed (title changed, job closed, etc).
+
+Some jobs may change their description or title, but ALL JOBS will eventually get closed. So you'll be receving too many notifications if you send updates for all of them. Instead mark in ss the jobs you are interested in as starred and you will receive notifications only for them.
+
+Updates include the change of any parameter available in the Upwrok RSS feed.
+
 #### • Fast vs Slow feeds
 
 There are **two types of feeds** on Upwork - *fast* and *slow*. The fast feed is the feed with expanded search query (e.g. `web development, $$$ expert level, fixed price`) vs a *topic* search for slow feed (just topic `957393`). Slow feeds get updated with new jobs about every 5 mins, while fast feeds get updated immediately.

@@ -41,9 +41,9 @@ Start adding feeds from My Feed.
 3. Make sure My Feed is selected and click `three dots` -> RSS, it will download or open the file
 (Three dots aree next to My Feed, Best Matches, Most Recent, Saved Jobs if what)
 4. On Chrome if the file opens right in browser, just copy its URL from the browser. On Firefox go to the Downloads in your browser, find this just downloaded file, right click it -> `Copy Download Link` for it.
-5. In the spreadsheet go to `feeds` tab, click the [My Feed RSS URL cell](https://docs.google.com/spreadsheets/d/1IpDik02VkQMPb8nxAdkqDEVYXBzXbpbG3CiCA8arl50/edit#rangeid=991815201) and paste the just copied RSS URL there.
+5. In the spreadsheet go to `feeds` tab, click the `D2` cell and paste the just copied RSS URL there.
 
-That's it - we've just added My Feed to the Reader. Now if you already want to test it you can proceed to the next step in Get Started, otherwise you can add more feeds.
+That's it - you've just added My Feed to the Reader. Now if you already want to test it you can proceed to the next step in Get Started, otherwise you can add more feeds.
 
 You can only get the feed url on Upwork desktop web version as of now. Upwork doesn't allow getting feed urls on mobile. But don't worry - we'll help you!
 With **PowerSheet RSS Reader Upwork** you don't even need the RSS urls at all - all you need is a **webpage url** for that search. You just copy the search page url, paste it to the spreadsheet search url column - and in just a minute - voila! - you have an RSS url for that feed generated from search! Isn't that cool?))

@@ -36,14 +36,14 @@ In the top menu click RSS -> Create settings form.
 
 Start adding feeds from My Feed.
 
-1. Log in to your Upwork freelancer profile
-2. Go to your homepage: https://www.upwork.com/nx/find-work/
-3. Make sure My Feed is selected and click `three dots` -> RSS, it will download or open the file
+1. Log in to your Upwork freelancer profile and go to your homepage: https://www.upwork.com/nx/find-work/
+2. Make sure My Feed is selected and click `three dots` -> RSS, it will download or open the file
 (Three dots aree next to My Feed, Best Matches, Most Recent, Saved Jobs if what)
-4. On Chrome if the file opens right in browser, just copy its URL from the browser. On Firefox go to the Downloads in your browser, find this just downloaded file, right click it -> `Copy Download Link` for it.
-5. In the spreadsheet go to `feeds` tab, select `D2` and paste the just copied RSS URL there.
+3. On Chrome if the file opens right in browser, just copy its URL from the browser. On Firefox go to the Downloads in your browser, find this just downloaded file, right click it -> `Copy Download Link` for it.
+4. In the spreadsheet go to `feeds` tab, select cell `D2` and paste the just copied URL there.
+5. Set `Check feed` to 'yes'.
 
-That's it - you've just added My Feed to the Reader. Now if you already want to test it you can proceed to the next step in Get Started, otherwise you can add more feeds.
+That's it - you've just added My Feed to the Reader. Now if you already want to test it you can proceed to the next step in `Get started` sheet, otherwise you can add more feeds.
 
 You can only get the feed url on Upwork desktop web version as of now. Upwork doesn't allow getting feed urls on mobile. But don't worry - we'll help you!
 With **PowerSheet RSS Reader Upwork** you don't even need the RSS urls at all - all you need is a **webpage url** for that search. You just copy the search page url, paste it to the spreadsheet search url column - and in just a minute - voila! - you have an RSS url for that feed generated from search! Isn't that cool?))

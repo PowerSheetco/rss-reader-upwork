@@ -31,8 +31,11 @@ You can always change the [email you are sending notifications to](#i-want-to-ch
 
 In the top menu click RSS -> Create settings form.
 
+### 3. Create time trigger
 
-### 3. Add feeds
+In the top menu click RSS -> Create time trigger.
+
+### 4. Add feeds
 
 Start adding feeds from My Feed.
 
@@ -55,10 +58,6 @@ With us you just copy the page url to the spreadsheet. - that simple and versati
 Try it yourself!
 
 So again, for all other feeds you can get the RSS urls the old way - via three dots. But you can also copy the webpage url to the Search URL column and wait a minute - up to you
-
-### 4. Create time trigger
-
-In the top menu click RSS -> Create time trigger.
 
 ### 5. Settings and start
 

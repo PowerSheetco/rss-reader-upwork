@@ -41,10 +41,9 @@
 
 When subscribing please enter the [email you will be using with PowerSheet](https://powersheet.co/rss-reader-upwork/manual#which-email-should-i-be-using-with-powersheet) (the address emails will be sent from).
 
+[Manual](manual)
 
 [Changelog](changelog)
-
-[Manual](manual)
 
 [Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform) to stay in touch
 

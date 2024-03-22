@@ -28,7 +28,6 @@
 
 ### [Demo](https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/edit?usp=sharing)
 
-<br />
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>

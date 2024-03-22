@@ -22,11 +22,11 @@
 * Indispensable tool for every freelancer
 * Gives you peace of mind when working on Upwork
 
-#### [Demo](https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/edit?usp=sharing)
-
 **$20 / month**
 
 [with free 14-day cancellation](refund-policy)
+
+### [Demo](https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/edit?usp=sharing)
 
 <br />
 <script async

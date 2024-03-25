@@ -36,6 +36,7 @@
 <stripe-buy-button
   buy-button-id="buy_btn_1Oy183HRWoLU3K3eubjVuQrI"
   publishable-key="pk_live_51OL1m2HRWoLU3K3ekN76ECIfS0WNaZfVKJXgW7NRMMZDvIkRHb5HZOlYyg1m7Q6pzZPravVGqzMVRU1QMQCQotjo00mlxZxfzZ"
+  class="plausible-event-name=Subscribe+Button"
 >
 </stripe-buy-button>
 <br />

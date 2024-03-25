@@ -1,1 +1,18 @@
 <script defer data-domain="powersheet.co" src="https://plausible.io/js/script.tagged-events.outbound-links.js"></script>
+<script>
+    var toTag = [
+        {
+            elementId: 'Subscribe+Button',
+            classes: 'plausible-event-name=Subscribe+Button'
+        }
+    ]
+
+    document.addEventListener('DOMContentLoaded', function (_e) {
+        toTag.forEach(function (tagObject) {
+            var element = document.getElementById(tagObject.elementId)
+            tagObject.classes.split(' ').forEach(function (className) {
+                if (element) { element.classList.add(className) }
+            })
+        })
+    })
+</script>

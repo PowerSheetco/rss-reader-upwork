@@ -30,7 +30,7 @@
 
 <br />
 <script async
-  src="https://js.stripe.com/v3/buy-button.js" class="plausible-event-name=Subscribe+Script+1 plausible-event-name--Subscribe+Script+2">
+  src="https://js.stripe.com/v3/buy-button.js" class="plausible-event-name=Subscribe+Script+1 plausible-event-name--Subscribe+Script+2" id="Subscribe+Script+3">
 </script>
 
 <stripe-buy-button

@@ -34,6 +34,10 @@
 
 <button onclick="location.href='https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj'" type="button" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5">Subscribe</button>
 
+<button class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5" type="submit">Subscribe</button>
+<input class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5" type="button" value="Subscribe">
+<input class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5" type="submit" value="Subscribe">
+
 When subscribing please enter the [email you will be using with PowerSheet](https://powersheet.co/rss-reader-upwork/manual#which-email-should-i-be-using-with-powersheet) (the address emails will be sent from).
 
 [Manual](manual)

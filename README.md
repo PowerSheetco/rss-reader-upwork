@@ -28,7 +28,7 @@
 
 ### [Demo](https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/edit?usp=sharing)
 
-<a href="https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj" class="remove-all-styles button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5">Subscribe</a>
+<a href="https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5">Subscribe</a>
 
 <button type="button" onclick="location.href='https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj';" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5" value="Subscribe" />
 

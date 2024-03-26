@@ -28,15 +28,7 @@
 
 ### [Demo](https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/edit?usp=sharing)
 
-<a href="https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5">Subscribe</a>
-
-<button type="button" onclick="location.href='https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj';" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5" value="Subscribe" />
-
-<button type="button" onclick="location.href='https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj'" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5">Subscribe</button>
-
-<button class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5" type="submit">Subscribe</button>
-<input class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5" type="button" value="Subscribe">
-<input class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5" type="submit" value="Subscribe">
+<a href="https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5 pluslink">Subscribe</a>
 
 When subscribing please enter the [email you will be using with PowerSheet](https://powersheet.co/rss-reader-upwork/manual#which-email-should-i-be-using-with-powersheet) (the address emails will be sent from).
 

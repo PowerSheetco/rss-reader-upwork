@@ -28,20 +28,6 @@
 
 ### [Demo](https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/edit?usp=sharing)
 
-<br />
-<script async
-  src="https://js.stripe.com/v3/buy-button.js" class="plausible-event-name=Subscribe+Script+1 plausible-event-name--Subscribe+Script+2" id="Subscribe+Script+3">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1Oy183HRWoLU3K3eubjVuQrI"
-  publishable-key="pk_live_51OL1m2HRWoLU3K3ekN76ECIfS0WNaZfVKJXgW7NRMMZDvIkRHb5HZOlYyg1m7Q6pzZPravVGqzMVRU1QMQCQotjo00mlxZxfzZ"
-  class="plausible-event-name=Subscribe+Button+1 plausible-event-name--Subscribe+Button+2"
-  id="Subscribe+Button+3"
->
-</stripe-buy-button>
-<br />
-
 <a href="https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5">Subscribe</a>
 
 When subscribing please enter the [email you will be using with PowerSheet](https://powersheet.co/rss-reader-upwork/manual#which-email-should-i-be-using-with-powersheet) (the address emails will be sent from).

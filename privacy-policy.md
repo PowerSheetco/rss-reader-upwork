@@ -2,11 +2,9 @@
 
 # Privacy Policy
 
-## Data we collect
-
 ### Spreadsheet and Google Account Information
 
-For spreadsheet to function we need the following permisions
+In order for spreadsheet to function we need the following permissions
 
 * **See, edit, create, and delete all your Google Sheets spreadsheets.**
 
@@ -58,8 +56,3 @@ We use [Stripe](https://stripe.com) for payment processing on our website. The b
 
 You can access and modify any piece of information except email in the customer portal: https://stripe.powersheet.co/p/login/00g9Bi8qP9N84BGaEE
 On how to edit your PowerSheet email please refer to the [manual](https://powersheet.co/rss-reader-upwork/manual#i-want-to-change-the-email-i-am-sending-from)
-
-## How we ue your data
-
-We do not share your data with third parties
-

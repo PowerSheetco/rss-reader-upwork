@@ -28,7 +28,7 @@
 
 <h3><a href="https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/view" class="plausible-event-name--Demo" target="_blank">Demo</a></h3>
 
-<b><a href="https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj" class="button plausible-event-name--Subscribe+button pluslink" target="_blank">Subscribe</a></b>
+<b><a href="https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj" class="button plausible-event-name--Subscribe pluslink" target="_blank">Subscribe</a></b>
 
 When subscribing please enter the [email you will be using with PowerSheet](https://powersheet.co/rss-reader-upwork/manual#which-email-should-i-be-using-with-powersheet) (the address emails will be sent from).
 

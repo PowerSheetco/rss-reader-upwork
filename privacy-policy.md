@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-### Spreadsheet and Google Account Information
+## Spreadsheet and Google Account Information
 
 In order for spreadsheet to function we need the following permissions:
 
@@ -27,20 +27,11 @@ In order for spreadsheet to function we need the following permissions:
 
 
 
-### Website
+## Website
 
 We use [Plausible](https://plausible.io/) for website analytics and do not use cookies. Please refer to their website about what data is being collected.
 
-### Newsletter
-
-We may ask the following information about you for the newsletter:
-
-* Your email
-* Your Upwork profile URL - used for analytics and sending our own job offers to suitable freelancers
-* Consent to receive news and announcement emails
-* Consent to receive exclusive job offers from us or our partners
-
-### Billing Information
+## Billing Information
 
 We use [Stripe](https://stripe.com) for payment processing on our website. The billing information we collect about you is:
 

@@ -30,7 +30,6 @@ In order for spreadsheet to function we need the following permissions:
 ### Website
 
 We use [Plausible](https://plausible.io/) for website analytics and do not use cookies. Please refer to their website about what data is being collected.
-We just want to know HOW MANY people are visiting our website - and not WHO is doing it.
 
 ### Newsletter
 

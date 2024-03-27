@@ -26,7 +26,7 @@
 
 [with free 14-day cancellation](refund-policy)
 
-<a href="https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/view" class="plausible-event-name--Demo" target="_blank"><h3>Demo</h3></a>
+<h3><a href="https://docs.google.com/spreadsheets/d/11Wrahub2kvOObqUzpRwMx2FIuxtMmCdHqXQGWG8MVP4/view" class="plausible-event-name--Demo" target="_blank">Demo</a></h3>
 
 <b><a href="https://stripe.powersheet.co/b/bIYcQ9aYMci4cdG4gj" class="button plausible-event-name=Subscribe+Button+4 plausible-event-name--Subscribe+Button+5 pluslink" target="_blank">Subscribe</a></b>
 

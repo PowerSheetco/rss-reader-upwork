@@ -36,7 +36,7 @@ When subscribing please enter the [email you will be using with PowerSheet](http
 
 [Changelog](changelog)
 
-[Subscribe to newsletter](https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform) to stay in touch
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScpRhK8vhKuAUBLmjoeZ8768dXokRD1uhjTe9xjINVBPk7ewA/viewform" class="plausible-event-name--Newsletter" target="_blank">Subscribe to newsletter</a> to stay in touch
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXaCPD_zB4Cvvqs8wF2EISJhNE4-jk0bzz6PJkqeumzbh1gQ/viewform" class="plausible-event-name--Contact+us">Contact us</a>
 

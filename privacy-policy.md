@@ -20,7 +20,7 @@ In order for spreadsheet to function we need the following permissions
   
 * **Send email as you.**
 
-  This is necessary to send you email notifications. We need only to SEND emails from your account - not READ your email.
+  This is necessary to send you email notifications. We only need SEND access - we do not need access to your inbox.
   
 * **Allow this application to run when you are not present.**
 

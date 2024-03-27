@@ -6,7 +6,7 @@
 
 ### Which email should I be using with PowerSheet?
 
-You can use any email that has Google Account associated with it. This account will be the owner of your powersheet, the script will run in the background for this account, and the emails will be sent **from this email**. This account is also a subject to Google's [quotas](https://developers.google.com/apps-script/guides/services/quotas).
+You can use any email that has Google Account associated with it. This account will be the owner of your powersheet, the script will run in the background in this account, and the emails will be sent **from this email**. This account is also a subject to [Google's quotas](https://developers.google.com/apps-script/guides/services/quotas).
 
 You can always change the [email you are sending notifications to](#-i-want-to-change-the-email-i-am-sending-notifications-to) and also [from](#-i-want-to-change-the-email-i-am-sending-from).
 
@@ -20,7 +20,7 @@ You can always change the [email you are sending notifications to](#-i-want-to-c
 4. There will be a warning saying 'Google hasn't verified this app'. Google shows this always, even for your own scripts. Please check our [Privacy Policy](https://powersheet.co/rss-reader-upwork/privacy-policy) for details about access to your data. Then click Advanced
 5. Go to RSS Reader Upwork (unsafe)
 6. Continue
-7. Check the permissions you are about to give (see our [privacy policy](https://powersheet.co/rss-reader-upwork/privacy-policy) for details). If you are worried about access to your personal information you can use a [dummy Google Account](#-i-want-to-change-the-email-i-am-sending-notifications-to) for this
+7. Check the permissions you are about to give (see our [privacy policy](https://powersheet.co/rss-reader-upwork/privacy-policy) for details). If you are worried about access to your personal information you can use a fresh new Google Account with PowerSheet
 8. Allow
 
 ### 2. Create settings form

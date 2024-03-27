@@ -4,7 +4,7 @@
 
 ## Spreadsheet and Google Account Information
 
-In order for spreadsheet to function we need the following permissions:
+In order for the spreadsheet to function we need the following permissions.
 
 * **See, edit, create, and delete all your Google Sheets spreadsheets** -- necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet
   
@@ -41,4 +41,4 @@ We use [Stripe](https://stripe.com) for payment processing on our website. The b
 * Your payment method information
 
 You can access and modify any piece of information except email in the customer portal: https://stripe.powersheet.co/p/login/00g9Bi8qP9N84BGaEE
-On how to edit your PowerSheet email please refer to the [manual](https://powersheet.co/rss-reader-upwork/manual#i-want-to-change-the-email-i-am-sending-from)
+On how to edit your PowerSheet email please refer to the [manual](https://powersheet.co/rss-reader-upwork/manual#-i-want-to-change-the-email-i-am-sending-from)

@@ -1,7 +1,3 @@
----
-description: PowerSheet RSS Reader Upwork Manual
----
-
 # [PowerSheet](https://powersheet.co/) [RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 
 ## Manual
@@ -10,7 +6,7 @@ description: PowerSheet RSS Reader Upwork Manual
 
 ### Which email should I be using with PowerSheet?
 
-You can use any email that has Google Account associated with it. This account will be the owner of your powersheet, the script will run in the background for this account, and the emails will be sent **from this email**. This account is also a subject to Google's [quotas](#quotas).
+You can use any email that has Google Account associated with it. This account will be the owner of your powersheet, the script will run in the background for this account, and the emails will be sent **from this email**. This account is also a subject to Google's [quotas](https://developers.google.com/apps-script/guides/services/quotas).
 
 You can always change the [email you are sending notifications to](#i-want-to-change-the-email-i-am-receiving-notifications-to) and also [from](#i-want-to-change-the-email-i-am-sending-from).
 

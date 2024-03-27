@@ -8,9 +8,11 @@ In order for the spreadsheet to function we need the following permissions
 
 * **See, edit, create, and delete all your Google Sheets spreadsheets**
 
-necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet
+  -- necessary to access the spreadsheet from the Google Apps Script. We access only the RSS Reader Upwork spreadsheet
   
-* **View and manage your forms in Google Drive** -- we are using the settings form to make it easier to change settings. We access only the Settings form bound to the RSS Reader Upwork spreadsheet
+* **View and manage your forms in Google Drive**
+
+  -- we are using the settings form to make it easier to change settings. We access only the Settings form bound to the RSS Reader Upwork spreadsheet
   
 * **Connect to an external service**
 
@@ -18,7 +20,7 @@ necessary to access the spreadsheet from the Google Apps Script. We access only 
   
 * **Send email as you**
 
--- necessary to send you email notifications. We only require the SEND access - not the READ access
+  -- necessary to send you email notifications. We only require the SEND access - we do not need the access to your inbox
   
 * **Allow this application to run when you are not present**
 
